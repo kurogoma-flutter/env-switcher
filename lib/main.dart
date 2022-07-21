@@ -36,12 +36,12 @@ class MyHomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            Text('TEST'),
+            const Text('TEST'),
             ElevatedButton(
                 onPressed: () {
                   Navigator.of(context).pop();
                 },
-                child: Text('test')),
+                child: const Text('test')),
           ],
         ),
       ),
