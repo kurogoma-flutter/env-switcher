@@ -45,3 +45,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# flavor
+**/android/app/src/main/res/mipmap*/
+**/android/app/google-services.json
