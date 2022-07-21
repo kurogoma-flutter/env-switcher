@@ -13,7 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>dev_devide</string>
+	<string>FlutterENV$(APP_ID_SUFFIX)</string>
+    <key>CFBundleDisplayName</key>
+    <string>FlutterENV$$(APP_ID_SUFFIX)</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

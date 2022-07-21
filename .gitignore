@@ -49,3 +49,4 @@ app.*.map.json
 # flavor
 **/android/app/src/main/res/mipmap*/
 **/android/app/google-services.json
+**/ios/Flutter/DartDefines.xcconfig
