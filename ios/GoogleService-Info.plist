@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>360957972453-rnc50p47mlcah3tmt6nipjv1scev1g0f.apps.googleusercontent.com</string>
+	<string>87355724977-410sbbt22ahssvuh201kegkabesbkfv9.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.360957972453-rnc50p47mlcah3tmt6nipjv1scev1g0f</string>
+	<string>com.googleusercontent.apps.87355724977-410sbbt22ahssvuh201kegkabesbkfv9</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBg2DMzea1I3pIvJxQGDoTAi3m1joIT7mA</string>
+	<string>AIzaSyCpiDwjJ62WPVKCN06q8NNPMh1iyPgzLxo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>360957972453</string>
+	<string>87355724977</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.devDevide.dev</string>
+	<string>com.example.devDevide.stg</string>
 	<key>PROJECT_ID</key>
-	<string>d-app-dev-7e9b0</string>
+	<string>d-app-stage</string>
 	<key>STORAGE_BUCKET</key>
-	<string>d-app-dev-7e9b0.appspot.com</string>
+	<string>d-app-stage.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:360957972453:ios:c655d72f4a27927c23e90c</string>
+	<string>1:87355724977:ios:d4ece7a09e1ca3c5887e90</string>
 </dict>
 </plist>
